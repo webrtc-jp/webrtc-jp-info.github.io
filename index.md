@@ -16,3 +16,12 @@ title: webrtcjp.info
 - [WebRTC Meetup Tokyo #5](https://atnd.org/events/58755)
 - [WebRTC Meetup Tokyo #6](https://atnd.org/events/60983)
 - [WebRTC Meetup Tokyo #7](https://atnd.org/events/62978)
+
+### Youtube Channel
+
+- [WebRTC Meetup Channel](https://www.youtube.com/channel/UCfFhKTGTXIQ7m9Xfnr5Sk3A)
+
+### Archive
+
+- [リラックスして楽しみながらWebRTCが学べる「WebRTC Meetup Tokyo」@CodeIQ](https://codeiq.jp/magazine/2014/05/10014/)
+- [WebRTCはGoogle独自の技術ではない！「WebRTC Meetup Tokyo #7」イベントレポート@gihyo.jp](http://gihyo.jp/news/report/2015/03/2401)
