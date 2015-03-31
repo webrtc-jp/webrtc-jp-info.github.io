@@ -3,7 +3,7 @@ layout: default
 title: webrtcjp.info
 ---
 
-### Welcome to WebRTC-JP.
+### Welcome to webrtcjp.info
 
 このサイトは、WebRTCに関する情報や、日本国内でのアクティビティを紹介します。サイトへの情報掲載は順次受け付けています。ご希望の方は、[GitHub](https://github.com/webrtc-jp/webrtc-jp-info.github.io)よりPull Reqをお願いします。
 
