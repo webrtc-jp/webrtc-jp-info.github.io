@@ -16,6 +16,7 @@ title: webrtcjp.info
 - [WebRTC Meetup Tokyo #5](https://atnd.org/events/58755)
 - [WebRTC Meetup Tokyo #6](https://atnd.org/events/60983)
 - [WebRTC Meetup Tokyo #7](https://atnd.org/events/62978)
+- [WebRTC Meetup Tokyo #8](https://atnd.org/events/65751)
 
 ### Youtube Channel
 
