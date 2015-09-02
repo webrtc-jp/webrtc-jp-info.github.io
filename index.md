@@ -22,6 +22,10 @@ title: webrtcjp.info
 
 - [WebRTC Meetup Channel](https://www.youtube.com/channel/UCfFhKTGTXIQ7m9Xfnr5Sk3A)
 
+### Slack
+
+- [Join WebRTC-JP](http://webrtc-jp-slackin.herokuapp.com/)
+
 ### Archive
 
 - [リラックスして楽しみながらWebRTCが学べる「WebRTC Meetup Tokyo」@CodeIQ](https://codeiq.jp/magazine/2014/05/10014/)
